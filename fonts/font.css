@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Bold'), local('Matter-Bold'),
-        url('Matter-Bold.woff') format('woff'),
+        url('Matter-Bold.woff2') format('woff2'),
     font-weight: bold;
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Bold Italic'), local('Matter-BoldItalic'),
-        url('Matter-BoldItalic.woff') format('woff'),
+        url('Matter-BoldItalic.woff2') format('woff2'),
     font-weight: bold;
     font-style: italic;
 }
@@ -17,7 +17,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter SemiBold'), local('Matter-SemiBold'),
-        url('Matter-SemiBold.woff') format('woff'),
+        url('Matter-SemiBold.woff2') format('woff2'),
     font-weight: 600;
     font-style: normal;
 }
@@ -25,7 +25,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Medium Italic'), local('Matter-MediumItalic'),
-        url('Matter-MediumItalic.woff') format('woff'),
+        url('Matter-MediumItalic.woff2') format('woff2'),
     font-weight: 500;
     font-style: italic;
 }
@@ -33,7 +33,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Heavy'), local('Matter-Heavy'),
-        url('Matter-Heavy.woff') format('woff'),
+        url('Matter-Heavy.woff2') format('woff2'),
     font-weight: 900;
     font-style: normal;
 }
@@ -41,7 +41,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Light Italic'), local('Matter-LightItalic'),
-        url('Matter-LightItalic.woff') format('woff'),
+        url('Matter-LightItalic.woff2') format('woff2'),
     font-weight: 300;
     font-style: italic;
 }
@@ -49,7 +49,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Medium'), local('Matter-Medium'),
-        url('Matter-Medium.woff') format('woff'),
+        url('Matter-Medium.woff2') format('woff2'),
     font-weight: 500;
     font-style: normal;
 }
@@ -57,7 +57,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter SemiBold Italic'), local('Matter-SemiBoldItalic'),
-        url('Matter-SemiBoldItalic.woff') format('woff'),
+        url('Matter-SemiBoldItalic.woff2') format('woff2'),
     font-weight: 600;
     font-style: italic;
 }
@@ -65,7 +65,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Heavy Italic'), local('Matter-HeavyItalic'),
-        url('Matter-HeavyItalic.woff') format('woff'),
+        url('Matter-HeavyItalic.woff2') format('woff2'),
     font-weight: 900;
     font-style: italic;
 }
@@ -73,7 +73,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Light'), local('Matter-Light'),
-        url('Matter-Light.woff') format('woff'),
+        url('Matter-Light.woff2') format('woff2'),
     font-weight: 300;
     font-style: normal;
 }
@@ -81,7 +81,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Regular'), local('Matter-Regular'),
-        url('Matter-Regular.woff') format('woff'),
+        url('Matter-Regular.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 }
@@ -89,7 +89,7 @@
 @font-face {
     font-family: 'Matter';
     src: local('Matter Regular Italic'), local('Matter-RegularItalic'),
-        url('Matter-RegularItalic.woff') format('woff'),
+        url('Matter-RegularItalic.woff2') format('woff2'),
     font-weight: normal;
     font-style: italic;
 }
