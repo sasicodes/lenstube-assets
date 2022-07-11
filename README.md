@@ -1,7 +1,22 @@
-Website - (https://lenstube.xyz)
+<div align="center">
+    <img src="https://cloudflare-ipfs.com/ipfs/Qmb2oJXiWcSc84ZtvECeLE2NKWwEkhK8R2az4wTxUW69JD" height="70" alt="Logo">
+    <h1>Lenstube</h1>
+    <a href="https://lenstube.xyz">https://lenstube.xyz</a>
+</div>
+<br>
+Static assets repository for Lenstube Project.
 
-# Sitemaps
+[Lensube Repository](https://github.com/sasicodes/lenstube)
+
+
+## Images 
+
 ```
-sitemaps/channels/1-50000.txt
+/images/*
 ```
-Consumed from Lenster's sitemap
+
+## Sitemaps
+```
+/sitemaps/channels/1-50000.txt
+```
+Consumed from [Lenster](https://github.com/lenster/lenster)'s sitemap
